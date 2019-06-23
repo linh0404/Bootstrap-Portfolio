@@ -36,7 +36,7 @@ footer {
     border-color: #dddddd;
   }
 
-  .profile {
+  .img-responsive {
     height: auto;
     width: auto;
     max-width: 300px;
