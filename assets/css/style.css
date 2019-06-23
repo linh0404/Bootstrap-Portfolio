@@ -28,9 +28,12 @@ footer {
   .container {
       background: #ffffff;
       padding: 20px;
-      border: solid;
-      border-width: 3px;
-      border-color: #dddddd;
+  }
+
+  #main {
+    border: solid;
+    border-width: 3px;
+    border-color: #dddddd;
   }
 
   .profile {
